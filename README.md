@@ -19,3 +19,8 @@ Both versions of the model will be provided and updated in this repository.
 - the updated progress can be seen in the 'Data Pre-Processing code' folder of the repository
 - specific adjustments to the cropping and resolution of the images will need to made
 
+6/21/19:
+-
+-
+-
+-
