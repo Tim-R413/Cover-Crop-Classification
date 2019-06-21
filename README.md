@@ -18,7 +18,6 @@ Both versions of the model will be provided and updated in this repository.
 - the code developed was able to crop the images, change their resolution and convert to and from greyscale
 - the updated progress can be seen in the 'Data Pre-Processing code' folder of the repository
 - specific adjustments to the cropping and resolution of the images will need to made
-
 6/21/19:
 -
 -
