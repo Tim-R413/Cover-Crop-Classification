@@ -23,8 +23,8 @@ Both versions of the model will be provided and updated in this repository.
 ## 6/21/19:
 - The Data Pre-processing code was completed and successfully extracts and creates pools of training and testing datasets
 - A new function was created to split the full images into multiple seperate images by cropping different sections. function name: image_division
--Used tf.Keras to build a simple sequential model to train using the training dataset of 60 images ( a larger dataset will be made in the furture)
--intial training with images of 20 x 20 pixel resolution was used at first 
+- Used tf.Keras to build a simple sequential model to train using the training dataset of 60 images ( a larger dataset will be made in the furture)
+- intial training with images of 20 x 20 pixel resolution was used at first 
 
 ## 6/24/19:
 - Creation of an excell spreadsheet to record data on network runs (i.e. pixel resolution, size of training dataset, number of network layers, activation functions, number of nodes, etc)
