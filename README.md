@@ -1,5 +1,5 @@
 # Cover Crop image Classifier 
-This Repository houses the data and code for a Machine Learning model that classifies species of cover crops using Tensor Flow.
+This Repository houses the data, code and results for a Machine Learning model that classifies species of cover crops using Tensor Flow.
 
 
 The repository was updated with the progress made to the neural network model. 
