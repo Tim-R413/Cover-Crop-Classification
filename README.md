@@ -2,7 +2,7 @@
 This Repository houses the data and code for a Machine Learning model that classifies species of cover crops using Tensor Flow.
 
 
-The repository will be updated in consistency with the progress made to the neural network model. 
+The repository was updated with the progress made to the neural network model. 
 
 
 # Tools used for Development 
@@ -29,3 +29,13 @@ Both versions of the model will be provided and updated in this repository.
 ## 6/24/19:
 - Creation of an excell spreadsheet to record data on network runs (i.e. pixel resolution, size of training dataset, number of network layers, activation functions, number of nodes, etc)
 - Data will be sored in the "Run Results" folder of the repository. 
+
+## 6/28/19
+
+## 7/5/19
+
+## 7/12/19
+
+## 7/19/19
+
+## 7/26/19
