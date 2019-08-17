@@ -28,7 +28,7 @@ Both versions of the model will be provided and updated in this repository.
 
 ## 6/24/19:
 - Creation of an excell spreadsheet to record data on network runs (i.e. pixel resolution, size of training dataset, number of network layers, activation functions, number of nodes, etc)
-- Data will be sored in the "Run Results" folder of the repository. 
+- Data will be stored in the [Cover Crop Classsifier Model Datalog](https://github.com/Tim-R413/Cover-Crop-Classification/blob/master/Cover%20Crop%20Classifier%20Model%20Datalog.xlsx) 
 
 ## 6/28/19
 
