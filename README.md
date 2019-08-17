@@ -3,11 +3,11 @@ This Repository houses the data, code and results for a Machine Learning model t
 
 The repository was updated with the progress made to the neural network model. 
 
-CCT cover crop Classification is a notebook that trains an image classifier to identify a Clover, Canola, or Triticale species of cover crop 
+[CCT cover crop Classification](https://github.com/Tim-R413/Cover-Crop-Classification/blob/master/Cover_Crop_Classification_CCT_only.ipynb) is a notebook that trains an image classifier to identify a Clover, Canola, or Triticale species of cover crop 
 
-ORF-out cover crop classificaion builds on the last model to train identification of a wider range of cover crop species including mixtures. Oat, Radish and Fallow species are those left out from identification, hence the notebook is labeled ORF-out.
+[ORF-out cover crop classificaion](https://github.com/Tim-R413/Cover-Crop-Classification/blob/master/CC_classification_ORF_out.ipynb) builds on the last model to train identification of a wider range of cover crop species including mixtures. Oat, Radish and Fallow species are those left out from identification, hence the notebook is labeled ORF-out.
 
-Covercrop testing is a colab notebook used to evaluate the performance of trained models on new and unused test data.
+[Covercrop testing](https://github.com/Tim-R413/Cover-Crop-Classification/blob/master/Cover_Crop_Classifier_Model_Test.ipynb) is a colab notebook used to evaluate the performance of trained models on new and unused test data.
 
 The CCT classifier model acheived an accuracy of over 93% and its file can be found here, the more advanced classifier model (ORF-out) was not done in performance improvemnt due to a shift of the projects objectives to instance segmentation.
 
