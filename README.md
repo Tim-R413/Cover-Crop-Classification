@@ -9,7 +9,7 @@ The repository was updated with the progress made to the neural network model.
 
 [Covercrop testing](https://github.com/Tim-R413/Cover-Crop-Classification/blob/master/Cover_Crop_Classifier_Model_Test.ipynb) is a colab notebook used to evaluate the performance of trained models on new and unused test data.
 
-The CCT classifier model acheived an accuracy of over 93% and its file can be found here, the more advanced classifier model (ORF-out) was not done in performance improvemnt due to a shift of the projects objectives to instance segmentation.
+The CCT classifier model acheived an accuracy of over 93% and its file can be found [here](https://github.com/Tim-R413/Cover-Crop-Classification/blob/master/CCT_covercrop_model), the more advanced classifier model (ORF-out) was not done in performance improvemnt due to a shift of the projects objectives to instance segmentation.
 
 # Tools used for Development 
 This Machine Learning model will be designed using a standard Python local environmnet as well as on Google Colab. Google Colab is a free Jupyter notebook environment that requires no setup, and runs entirely on the Cloud. Colab has tensorflows API's entirely integrated and is useful in applying Tensorflows GPU abilites.
