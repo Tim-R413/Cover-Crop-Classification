@@ -9,7 +9,7 @@ The repository was updated with the progress made to the neural network model.
 
 [Covercrop testing](https://github.com/Tim-R413/Cover-Crop-Classification/blob/master/Cover_Crop_Classifier_Model_Test.ipynb) is a colab notebook used to evaluate the performance of trained models on new and unused test data.
 
-Logs of data results during modek improvement: [logs](https://github.com/Tim-R413/Cover-Crop-Classification/blob/master/Cover%20Crop%20Classifier%20Model%20Datalog.xlsx)
+Logs of data results when coduction model improvement: [model performance](https://github.com/Tim-R413/Cover-Crop-Classification/blob/master/Cover%20Crop%20Classifier%20Model%20Datalog.xlsx)
 
 The CCT classifier model acheived an accuracy of over 93% and its file can be found [here](https://github.com/Tim-R413/Cover-Crop-Classification/blob/master/CCT_covercrop_model), the more advanced classifier model (ORF-out) was not done in performance improvemnt due to a shift of the projects objectives to instance segmentation.
 
