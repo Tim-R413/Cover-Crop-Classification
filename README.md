@@ -1,9 +1,11 @@
 # Cover Crop image Classifier 
 This Repository houses the data, code and results for a Machine Learning model that classifies species of cover crops using Tensor Flow.
 
-
 The repository was updated with the progress made to the neural network model. 
 
+CCT cover crop Classification is a notebook that trains an image classifier to identify a Clover, Canola, or Triticale species of cover crop 
+ORF-out cover crop classificaion builds on the last model to train identification of a wider range of cover crop species including mixtures. Oat, Radish and Fallow species are those left out from identification, hence the notebook is labeled ORF-out.
+Covercrop testing is a colab notebook used to evaluate the performance of trained models on new and unused test data.
 
 # Tools used for Development 
 This Machine Learning model will be designed using a standard Python local environmnet as well as on Google Colab. Google Colab is a free Jupyter notebook environment that requires no setup, and runs entirely on the Cloud. Colab has tensorflows API's entirely integrated and is useful in applying Tensorflows GPU abilites.
